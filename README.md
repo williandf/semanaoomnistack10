@@ -32,7 +32,7 @@
 <br>
 
 <p align="center">
-  <img alt="Frontend" src=".github/devradar.png" width="100%">
+  <img alt="Frontend" src="https://github.com/rocketseat-education/semana-omnistack-10/raw/master/.github/devradar.png" width="100%">
 </p>
 
 ## :rocket: Tecnologias
